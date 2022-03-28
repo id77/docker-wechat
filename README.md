@@ -1,5 +1,7 @@
 # DoChat /dɑɑˈtʃæt/ 盒装微信
 
+ARM yes
+
 [![Docker](https://github.com/huan/docker-wechat/workflows/Docker/badge.svg)](https://github.com/huan/docker-wechat/actions?query=workflow%3ADocker)
 [![Powered By Wine](https://img.shields.io/badge/Powered%20By-Wine-red)](https://www.winehq.org/)
 
